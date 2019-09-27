@@ -1,2 +1,2 @@
 # Scotiabank
-Scotiabank Risk Analytics Data Science competition
+Scotiabank Risk Analytics Data Science Competition
