@@ -1,0 +1,60 @@
+Short form of variable names + their long form and units
+
+World commodities
+
+wrgdp "GDP, real, world, US$"
+woiil "World oil price Brent crude spot $pb"
+wgold "World gold price, constant exchange rates, US$"
+wcopp "World copper price, constant exchange rates, US$"
+walum "World aluminum price, constant exchange rates, US$"
+wgas "Henry Hub gas price"
+wfood "World food price" 2005=100
+
+
+Canada
+
+ctbill "Interest rate, short-term, 3 month t-bill rate"
+cgbond01 "Interest rate, 1-year government bond yields"
+cgbond05 "Interest rate, 5-year government bond yields"
+cgbond10 "Interest rate, 10-year Benchmark Bond Yield (Last Wed)"
+crgdp "GDP, real, annual growth"
+cngdp "GDP, nominal, LCU" Millions
+ccs "Consumption, private, real, LCU" "Millions: 2007 prices"
+crs "Retail sales, volume index" 2007=100
+ccpi "Inflation, consumer price index - % year-on-year"
+crlend "Interest rate, lending"
+ccorp "BFV CAD Canada Corporate (BBB) 10 Year monthly"
+cgbal "Government balance, share of GDP"
+cggip "Interest payments, government, gross, LCU" Billions
+ccprof "Company profits, LCU" Billions
+cpop "Population, total" Thousands
+chst "Housing starts" Millions
+cgdebt "Government debt, gross, LCU" Millions
+cgrev "Government revenue, total, LCU" Millions
+curate "Unemployment rate"
+ceempl "Employees in employment" Thousands
+
+
+UnitedStates
+
+utbill "Interest rate, short-term, 3 month t-bill rate"
+ugbond05 "Interest rate, 5-year government notes"
+ugbond10 "Interest rate, 10 year government bonds"
+urgdp "GDP, real, annual growth"
+ungdp "GDP, nominal, LCU" Billions
+ucpi "Inflation, consumer price index - % year-on-year"
+ugbal "Government balance, share of GDP"
+uggip "Interest payments, government, gross, LCU" Billions
+ucprof C"Company profits, LCU" Billions
+upop "Population, total" Thousands
+uhpi "House price index, Case Shiller" 2000Q1=100
+uhst "Housing starts" Thousands
+ucrepi "Commercial real estate price index" Dec-00=100
+ugdebt "Government debt, gross, LCU" Billions
+ugrev "Government revenue, total, LCU" Billions
+uurate "Unemployment rate"
+
+
+VIX
+
+vix "CBOE Market Volatility Index, VIX (Avg)"
